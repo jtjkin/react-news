@@ -49,6 +49,7 @@ const News = () => {
                             <img src={item.urlToImage} alt={item.title}></img>
                             <div className="textBox">
                                 <h3>{item.title}</h3>
+                                <p></p>
                                 <p className="source">{item.source.name}</p>
                                 <p className="text">{item.description}</p>
                             </div>
