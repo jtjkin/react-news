@@ -75,3 +75,11 @@ a {
 a:hover {
     filter: sepia(0.2);
 }
+
+@media screen and (min-width: 900px) {
+    body {
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

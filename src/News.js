@@ -16,7 +16,6 @@ const News = () => {
         .then(res => res.json())
         .then(
             (result) => {
-                console.log(result)
                 setError(null)
                 setItems(result.articles)
                 setLoaded(true)
@@ -45,7 +44,7 @@ const News = () => {
                 </div>
                 {items.map(item => (
                     <div key={item.title} className="newsContainer">
-                        <a href={item.url} target="_blank" rel="noopener">
+                        <a href={item.url} target="_blank" rel="noopener noreferrer">
                             <img src={item.urlToImage} alt={item.title}></img>
                             <div className="textBox">
                                 <h3>{item.title}</h3>
