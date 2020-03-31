@@ -76,6 +76,16 @@ a:hover {
     filter: sepia(0.2);
 }
 
+.text:first-letter {
+    font-size: 3em;
+    float: left;
+    margin-top: 0.08em;
+    margin-right: 0.15em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 0.7em;
+}
+
 @media screen and (min-width: 900px) {
     body {
         width: 40%;
