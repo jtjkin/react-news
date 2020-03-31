@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-news/static/css/main.b5db4093.chunk.css",
+    "main.css": "/react-news/static/css/main.6110c072.chunk.css",
     "main.js": "/react-news/static/js/main.3f3986dd.chunk.js",
     "main.js.map": "/react-news/static/js/main.3f3986dd.chunk.js.map",
     "runtime-main.js": "/react-news/static/js/runtime-main.d40541e6.js",
@@ -8,15 +8,15 @@
     "static/js/2.5995a591.chunk.js": "/react-news/static/js/2.5995a591.chunk.js",
     "static/js/2.5995a591.chunk.js.map": "/react-news/static/js/2.5995a591.chunk.js.map",
     "index.html": "/react-news/index.html",
-    "precache-manifest.746519f33d05ae8694b9e03c55037ce9.js": "/react-news/precache-manifest.746519f33d05ae8694b9e03c55037ce9.js",
+    "precache-manifest.03a958a6ffb11d4dd346d06f96a04038.js": "/react-news/precache-manifest.03a958a6ffb11d4dd346d06f96a04038.js",
     "service-worker.js": "/react-news/service-worker.js",
-    "static/css/main.b5db4093.chunk.css.map": "/react-news/static/css/main.b5db4093.chunk.css.map",
+    "static/css/main.6110c072.chunk.css.map": "/react-news/static/css/main.6110c072.chunk.css.map",
     "static/js/2.5995a591.chunk.js.LICENSE.txt": "/react-news/static/js/2.5995a591.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d40541e6.js",
     "static/js/2.5995a591.chunk.js",
-    "static/css/main.b5db4093.chunk.css",
+    "static/css/main.6110c072.chunk.css",
     "static/js/main.3f3986dd.chunk.js"
   ]
 }
